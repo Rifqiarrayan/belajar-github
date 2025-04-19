@@ -2,6 +2,7 @@ rencana kontent wpu
 -vidio mengenai javascript
 *ES6
 *Framework javascript
+-struktur data dasar
 -vidio mengenai framework
 -interview
 vlog
