@@ -2,7 +2,11 @@ rencana kontent wpu
 -vidio mengenai javascript
 *ES6
 *Framework javascript
+^vue
+^react
 -struktur data dasar
+-PHP framework
+^laravel
 -vidio mengenai framework
 -interview
 vlog
